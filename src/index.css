@@ -120,7 +120,8 @@ body {
 }
 
 .logo-inicio {
-  border-radius: 50%;
+ height: 20vw;
+ min-height: 200px;
 
 }
 
